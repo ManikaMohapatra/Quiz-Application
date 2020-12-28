@@ -1,6 +1,6 @@
-Python
-Django
-gunicorn
+Python-2.8.1
+Django-3.0
+gunicorn=20.0.4
 
 
 
